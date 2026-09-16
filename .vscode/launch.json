@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: PyCaret (pycaret_env)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/PyCaret_demo_example3_27.py",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}/pycaret_env/Scripts/python.exe"
+        }
+    ]
+}
